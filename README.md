@@ -8,6 +8,7 @@ Espaço para visualizarem as vagas que temos em aberto no TruckPad dentro da ár
 <br>
 Seja Um(a) TruckPader :D
 
+
 - <a target="_blank" href='https://jobs.kenoby.com/truckpad/job/analista-de-qa/5d1a6c68a7ff664dd6740954'>ANALISTA DE QA</a>
 - <a target="_blank" href='https://jobs.kenoby.com/truckpad/job/desenvolvedor-back-end-junior/5cf83aea5523e97b5321437e'>DESENVOLVEDOR BACK-END JR</a>
 - <a target="_blank" href='https://jobs.kenoby.com/truckpad/job/desenvolvedor-back-end-pleno/5d19fa288d0371058db685a3'>DESENVOLVEDOR BACK-END PL</a>
@@ -16,3 +17,5 @@ Seja Um(a) TruckPader :D
 - <a target="_blank" href='https://jobs.kenoby.com/truckpad/job/desenvolvedor-android-senior/5d10c8eb30b0d71b73ca0848'> DESENVOLVEDOR ANDROID</a>
 - <a target="_blank" href='https://jobs.kenoby.com/truckpad/job/desenvolvedor-front-end/5d1a6c276a909c5317312237'>DESENVOLVEDOR FRONT-END</a>
 - <a target="_blank" href='https://jobs.kenoby.com/truckpad/job/tech-lead/5cc860ad91303424483644c4'>TECH LEAD</a>
+
+Contatos: barbara.soto@truckpad.com.br
