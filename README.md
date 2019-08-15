@@ -4,7 +4,9 @@
 # Vagas
                                                       Vagas Tech
 
-Espaço para visualizarem as vagas que temos em aberto no TruckPad dentro da área de Engenharia. Seja Um(a) TruckPader :D
+Espaço para visualizarem as vagas que temos em aberto no TruckPad dentro da área de Engenharia. 
+<br>
+Seja Um(a) TruckPader :D
 
 - <a target="_blank" href='https://jobs.kenoby.com/truckpad/job/analista-de-qa/5d1a6c68a7ff664dd6740954'>ANALISTA DE QA</a>
 - <a target="_blank" href='https://jobs.kenoby.com/truckpad/job/desenvolvedor-back-end-junior/5cf83aea5523e97b5321437e'>DESENVOLVEDOR BACK-END JR</a>
