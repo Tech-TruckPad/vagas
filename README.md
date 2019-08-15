@@ -2,6 +2,7 @@
 
 
 # Vagas
+                                                      Vagas Tech
 
 Espaço para visualizarem as vagas que temos em aberto no TruckPad dentro da área de Engenharia. Seja Um(a) TruckPader :D
 
