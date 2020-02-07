@@ -18,4 +18,4 @@ Seja Um(a) TruckPader :D
 - <a target="_blank" href='https://jobs.kenoby.com/truckpad/job/desenvolvedor-front-end/5d1a6c276a909c5317312237'>DESENVOLVEDOR FRONT-END</a>
 - <a target="_blank" href='https://jobs.kenoby.com/truckpad/job/tech-lead/5cc860ad91303424483644c4'>TECH LEAD</a>
 
-Contatos: barbara.soto@truckpad.com.br
+Contato: giovanna.ruano@truckpad.com.br
